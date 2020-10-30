@@ -11,8 +11,8 @@ app.use(express.json())
 
 app.get('/api/jobs', async (req,res) => {
     try {
-        const lista = await jobsList()
-        res.json(lista).status(200)
+        const jobsData = await jobsList()
+        res.json(jobsData).status(200)
 
     } catch (error) {
         console.log('Dont wait more bro, doesnt works',error)
