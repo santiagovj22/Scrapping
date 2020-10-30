@@ -33,3 +33,11 @@ Steps to visit the site
   - Browser Automatically opens
   
   PD: keep the server running.
+
+
+Notes for the future:
+  - Implement a good architecture
+  - Research about other libraries for web-scraping
+  - Implement good practices and security
+  - Add unit tests
+  - Add a cronoJob to extract data each determinated time
