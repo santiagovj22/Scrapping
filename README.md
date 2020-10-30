@@ -36,8 +36,11 @@ Steps to visit the site
 
 
 Notes for the future:
+  - Fix the url (add a best way to join this)
   - Implement a good architecture
   - Research about other libraries for web-scraping
   - Implement good practices and security
   - Add unit tests
   - Add a cronoJob to extract data each determinated time
+
+This is the first time that i build something like that , so dont bulling me xd
