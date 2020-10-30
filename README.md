@@ -42,6 +42,3 @@ Notes for the future:
   - Implement good practices and security
   - Add unit tests
   - Add a cronoJob to extract data each determinated time
->
- >> This is the first time that i build something like that , so dont bulling me xd
->
