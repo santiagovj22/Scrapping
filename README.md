@@ -1,6 +1,4 @@
-# Test-talent.com
-
-## Technical test to Talent.com
+# Web scrapping
 ### By: Santiago Valle
 
 Requirements
@@ -20,7 +18,7 @@ Acceptance Criteria:
   
 Steps for the server
   - Clone repository: `git clone <url>`
-  - `cd Test-talent.com`
+  - `cd Scrapping`
   - `code .`
   - `cd service`
   - `npm install`
